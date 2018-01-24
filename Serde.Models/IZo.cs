@@ -1,4 +1,4 @@
-﻿namespace Serde.Poc.Models {
+﻿namespace Serde.Models {
   public interface IZo {
     int Zo { get; }
   }

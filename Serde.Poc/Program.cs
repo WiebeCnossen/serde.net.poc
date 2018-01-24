@@ -3,7 +3,7 @@
 
   using Newtonsoft.Json;
 
-  using Serde.Poc.Models;
+  using Serde.Models;
 
   internal static class Program {
     private static readonly string[] Jsons = { "{ yo: 42 }", "{ zo: 42 }", "{ yo: 42, zo: 42 }" };

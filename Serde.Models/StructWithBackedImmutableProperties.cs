@@ -1,4 +1,4 @@
-﻿namespace Serde.Poc.Models {
+﻿namespace Serde.Models {
   public struct StructWithBackedImmutableProperties : IXo, IYo, IZo {
     public StructWithBackedImmutableProperties(int yo) {
       this.Zo = yo;

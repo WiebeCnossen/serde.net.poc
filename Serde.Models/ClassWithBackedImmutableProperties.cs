@@ -1,4 +1,4 @@
-﻿namespace Serde.Poc.Models {
+﻿namespace Serde.Models {
   using System;
 
   using Newtonsoft.Json;
